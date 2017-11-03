@@ -1,5 +1,11 @@
 # pmpkpe
 
+### Note
+
+This code was repackaged into a command line utility for easier use.  Since the original code doesn't have a license or instructions on modification I wanted to give credit here.
+
+The original author that I forked from is [kantium](https://github.com/kantium) and the original code can be found [here](https://github.com/kantium/pmpkpe)
+
 ### Feature
 
 Generate your Protonmail Private Key passphrase based on the KeySalt and MailBoxPassword
